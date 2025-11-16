@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on on a specific ml model.<br>👯 I’m looking to collaborate on Ai and ML hackathons.<br>🤝 I’m looking for help with learning ML and pursuing Master degree in latter.<br>🌱 I’m currently learning reinforced models.<br>💬 Ask me about anything ,love ot have a convo on any stuff.<br>
+🔭 I’m currently working on on a specific ml model.<br>👯 I’m looking to collaborate on Ai and ML hackathons.<br>🤝 I’m looking for help with learning ML and pursuing Master degree in latter.<br>🌱 I’m currently learning reinforced models.<br>💬 Ask me about anything ,love to have a convo on any stuff.<br>
 
 
 ## 🌐 Socials:
