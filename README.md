@@ -1,62 +1,49 @@
-<div align="center">
+<h1 align="center">Hi, I'm Asvath 👋</h1>
 
-# Asvath
+<p align="center">
+  Student & ML practitioner training models from scratch — currently deep in reinforcement learning, on my way to a Master's in ML.
+</p>
 
-**Machine learning practitioner — training models, exploring reinforcement learning, and always down to build something with other people.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=560&lines=Currently+training+an+ML+model+from+scratch;Deep+in+reinforcement+learning+right+now;Heading+toward+a+Master's+in+ML;Open+to+hackathons+%E2%80%94+let's+build+something" alt="typing animation" />
+### About me
 
-</div>
+- 🎓 Student expanding my coding knowledge, with a focus on machine learning and reinforcement learning
+- 🧠 Training ML models from scratch — currently working through RL fundamentals
+- 📚 Working toward a Master's degree in Machine Learning
+- 🤝 Open to collaborating on ML projects and joining hackathons
+- 📍 Based in India
 
-<br>
+### Featured projects
 
-## About
-
-I'm working through the process of building and fine-tuning a machine learning model end to end — right now that means spending most of my time in reinforcement learning. Longer term I'm aiming for a Master's in ML, so I'm always happy to compare notes with anyone further along that path (or just starting out).
-
-Outside of that, I like joining AI/ML hackathons, and I'm generally up for talking through ideas — mine or yours.
-
-**Reach me:**
-[LinkedIn](https://linkedin.com/in/asvath29) · [Email](mailto:greatasvath@gmail.com) · [Reddit](https://reddit.com/user/A_VJ29) · [Pinterest](https://pinterest.com/ASVATH2905)
-
-<br>
-
-## Stack
-
-| | |
+| Project | Description |
 |---|---|
-| **Machine Learning** | PyTorch, TensorFlow, Keras, scikit-learn, MLflow |
-| **Data & Analysis** | NumPy, Pandas, SciPy, Matplotlib, Plotly |
-| **Backend & Web** | Python, Flask, Node.js, Next.js, Tailwind CSS |
-| **Infra & Tools** | Supabase, Google Cloud, Cloudflare, Netlify, Git, Figma |
+| [BugSense](https://github.com/ASVATH2029/BugSense) | Python project for detecting/triaging bugs |
+| [local-semantic-search](https://github.com/ASVATH2029/local-semantic-search) | Semantic search running locally over your own data |
+| [ml-fraud-pipeline](https://github.com/ASVATH2029/ml-fraud-pipeline) | End-to-end ML pipeline for fraud detection |
+| [FUSION-NOTES](https://github.com/ASVATH2029/FUSION-NOTES) | Contribution to a note-taking app (fork) |
 
-<br>
+Also experimenting with a series of `muck-target-*` repos — small AI-generated CLIs (Go/TypeScript/Python) used as benchmark fixtures for evaluating code quality.
 
-## GitHub Activity
+### Tech stack
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ASVATH2029&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASVATH2029&layout=compact&theme=dracula&hide_border=true" />
-</div>
+**Machine Learning:** PyTorch · TensorFlow · Keras · scikit-learn · NumPy · Pandas
+**Languages:** Python · Go · TypeScript · JavaScript
+**Web:** Flask · Node.js · Next.js
+**Infra:** Google Cloud · Supabase
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ASVATH2029&theme=dracula&hide_border=true" />
-</div>
+### Let's connect
 
-<div align="center">
-  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=ASVATH2029&theme=dracula&hide_border=true&area=true" />
-</div>
-
-<br>
-
-## Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASVATH2029&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=10" />
-</div>
-
-<br>
-
-<div align="center">
-<sub>Thanks for stopping by — feel free to reach out.</sub>
-</div>
+<!-- Fill in your actual links below -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your-email>)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/<your-reddit>)
