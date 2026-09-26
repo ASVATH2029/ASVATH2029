@@ -27,11 +27,12 @@
 
 | Project | Description |
 |---|---|
+| [MuckLedger](https://github.com/ASVATH2029/MuckLedger) | Reproducible leaderboard for AI code-cleanup tools — no evidence, no score |
 | [BugSense](https://github.com/ASVATH2029/BugSense) | Python project for detecting/triaging bugs |
 | [local-semantic-search](https://github.com/ASVATH2029/local-semantic-search) | Semantic search running locally over your own data |
 | [ml-fraud-pipeline](https://github.com/ASVATH2029/ml-fraud-pipeline) | End-to-end ML pipeline for fraud detection |
 | [FUSION-NOTES](https://github.com/ASVATH2029/FUSION-NOTES) | Contribution to a note-taking app (fork) |
-| [MuckLedger](https://github.com/ASVATH2029/MuckLedger) | Reproducible leaderboard for AI code-cleanup tools — no evidence, no score |
+
 
 
 
